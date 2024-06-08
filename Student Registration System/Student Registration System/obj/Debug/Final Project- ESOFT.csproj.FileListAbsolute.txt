@@ -1,0 +1,13 @@
+c:\users\asus\desktop\Final Project- ESOFT\Final Project- ESOFT\bin\Debug\Final Project- ESOFT.exe.config
+C:\Users\Asus\desktop\Final Project- ESOFT\Final Project- ESOFT\obj\Debug\Final Project- ESOFT.csprojResolveAssemblyReference.cache
+C:\Users\Asus\desktop\Final Project- ESOFT\Final Project- ESOFT\obj\Debug\Final_Project__ESOFT.Properties.Resources.resources
+C:\Users\Asus\desktop\Final Project- ESOFT\Final Project- ESOFT\obj\Debug\Final Project- ESOFT.csproj.GenerateResource.Cache
+C:\Users\Asus\desktop\Final Project- ESOFT\Final Project- ESOFT\bin\Debug\Final Project- ESOFT.exe
+C:\Users\Asus\desktop\Final Project- ESOFT\Final Project- ESOFT\bin\Debug\Final Project- ESOFT.pdb
+C:\Users\Asus\desktop\Final Project- ESOFT\Final Project- ESOFT\obj\Debug\Final Project- ESOFT.exe
+C:\Users\Asus\desktop\Final Project- ESOFT\Final Project- ESOFT\obj\Debug\Final Project- ESOFT.pdb
+C:\Users\Asus\desktop\Final Project- ESOFT\Final Project- ESOFT\obj\Debug\Final_Project__ESOFT.register.resources
+C:\Users\Asus\desktop\Final Project- ESOFT\Final Project- ESOFT\bin\Debug\user DB.mdf
+C:\Users\Asus\desktop\Final Project- ESOFT\Final Project- ESOFT\bin\Debug\user DB_log.ldf
+C:\Users\Asus\desktop\Final Project- ESOFT\Final Project- ESOFT\obj\Debug\Final_Project__ESOFT.login.resources
+C:\Users\Asus\desktop\Final Project- ESOFT\Final Project- ESOFT\obj\Debug\Final_Project__ESOFT.home.resources
